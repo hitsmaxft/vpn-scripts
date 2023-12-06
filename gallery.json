@@ -1,2 +1,4 @@
 {"name":"VPN scripts","task":[
-  {"config":"0 0 0 0 2309 https:\/\/raw.githubusercontent.com\/hitsmaxft\/vpn-scripts\/main\/set_mode_alldirect.js, img-url=https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/quantumult-x.png, tag=set_direct, enabled=true"}],"description":"vVPN script"}
+  {"config":"0 0 0 0 2309 https:\/\/raw.githubusercontent.com\/hitsmaxft\/vpn-scripts\/main\/set_mode_alldirect.js, img-url=https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/quantumult-x.png, tag=set_direct, enabled=true"},
+  {"config":"0 0 0 0 2309 https:\/\/raw.githubusercontent.com\/hitsmaxft\/vpn-scripts\/main\/set_mode_filter.js, img-url=https:\/\/raw.githubusercontent.com\/crossutility\/Quantumult-X\/master\/quantumult-x.png, tag=set_direct, enabled=true"}
+],"description":"qmx VPN script"}
